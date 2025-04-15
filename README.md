@@ -1,0 +1,2 @@
+# MAGTE_LOGO
+MAGTE Coin Logo
